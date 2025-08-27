@@ -7,15 +7,13 @@
 </center>
 
 Welcome to the **Swift Fundamentals Study** repository!  
-This project is dedicated to learning, practicing, and documenting the **core concepts of the Swift programming language**. Whether you’re just starting out with Swift or brushing up on the basics, this repo serves as a structured guide and collection of exercises.
+This project is dedicated to learning, practicing, and documenting the **core concepts of the Swift programming language**. Whether you’re just starting out with Swift or brushing up on the basics, this repo serves as a structured guide.
 
 ---
 
 ## 📚 What You'll Find Here
 - **Concepts & Notes** – Explanations of Swift fundamentals (variables, constants, functions, control flow, etc.)
 - **Code Examples** – Simple, commented Swift snippets to reinforce each topic.
-- **Exercises** – Small hands-on challenges to practice what you’ve learned.
-- **Projects (Optional)** – Mini applications applying multiple concepts together.
 
 ---
 
